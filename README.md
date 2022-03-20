@@ -1,16 +1,8 @@
-# flutter_workshop
+# flutter Workshop at Manav Rachna International Institute of Research and Studies - Faridabad
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+### [Register Link](https://gdsc.community.dev/events/details/developer-student-clubs-manav-rachna-international-institute-of-research-and-studies-faridabad-presents-flutter-fest-day-1-introduction/)
 
-A few resources to get you started if this is your first Flutter project:
+### [Workshop PPT](https://docs.google.com/presentation/d/1qJFtVjJu1olx7jacioJYOU53LX3Et-hWldB0bMURBBE/edit?usp=sharing)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
